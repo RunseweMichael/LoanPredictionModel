@@ -65,7 +65,7 @@ These visualizations helped in understanding model performance and the impact of
 ## 📦 Installation & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/loan-approval-prediction.git
+   git clone https://github.com/RunseweMichael/LoanPredictionModel.git
    cd loan-approval-prediction
 
 2. Install dependencies:
